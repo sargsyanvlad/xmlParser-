@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# ignore .iml and idea files
+.idea/*
+*.imlgit
+package-lock.json
